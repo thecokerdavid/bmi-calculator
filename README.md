@@ -7,9 +7,12 @@ BMI is an inexpensive and easy screening method for weight category
 — underweight, healthy weight, overweight, and obesity.
 
 # Usage
-
-
-
+A simple and very efficient bmi calculator.
+1. Make sure you have had Python configured on your OS.
+2. Open up the console.
+3. Run the main.py script.
+4. Input the required values and hit ENTER.
+5. Check your result.
 
 ### Disclaimer:
 

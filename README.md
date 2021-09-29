@@ -6,7 +6,8 @@ by the square of height in meters.
 BMI is an inexpensive and easy screening method for weight category
 — underweight, healthy weight, overweight, and obesity.
 
-# Usage
+## Usage:
+
 A simple and very efficient bmi calculator.
 1. Make sure you have had Python configured on your OS.
 2. Open up your favorite IDE.
